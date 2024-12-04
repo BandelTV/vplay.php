@@ -1,6 +1,5 @@
 
 
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +20,8 @@
   <!-- Include javascript, additional meta information and all things that belong to head tag -->
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans'm
   rel='stylesheet' type='text/css'><noscript>======== Bandel TV
-  
+
+
 
 
 
@@ -90,7 +90,7 @@ foreach ($titles[1] as $index => $title) {
 
     // Check if current time is greater than or equal to start time
     $now = new DateTime('now', new DateTimeZone('Asia/Jakarta')); // Current time in WIB
-    $status = $now >= $dateTime ? 'LIVE NOW' : 'UP COMING'; // Determine status
+    $status = $now >= $dateTime ? 'Tayang' : 'Menunggu'; // Determine status
 
     // Extract only numbers from the link
     preg_match('/\/live\/(\d+)-/', $link, $matches);
@@ -101,23 +101,21 @@ foreach ($titles[1] as $index => $title) {
     echo "#KODIPROP:inputstream.adaptive.manifest_type=dash\n"; 
     echo "#EXTINF:-1 tvg-id=\"Lokal\" group-title=\"VIDIO ($status)\" tvg-logo=\"$image\" ch-number=\"" . ($index + 1) . "\", $title - ($subtitle)\n"; // Include subtitle and status
     echo "#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha\n";
-    echo "#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/ayam/index.php?id=$extracted_id&type=drm&token=$token\n"; // Use fetched token
-    echo "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36\n";
+    echo "#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=$extracted_id&type=drm\n"; // Use fetched token
+    echo "#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS\n";
 
 
     // Check extracted_id to determine streaming URL format
     if (in_array($extracted_id, ['204', '205', '206'])) {
-        echo "https://combilolo.my.id/ayam/index.m3u8?id=$extracted_id&type=hls&token=$token\n"; // Use m3u8 format
+        echo "https://luck.openwindows038.workers.dev/play.m3u8?id=$extracted_id&type=hls\n"; // Use m3u8 format
     } else {
-        echo "https://combilolo.my.id/ayam/index.mpd?id=$extracted_id&type=dash&token=$token\n"; // Use mpd format for other IDs
+        echo "https://luck.openwindows038.workers.dev/play.mpd?id=$extracted_id&type=dash\n"; // Use mpd format for other IDs
     }
 }
 
 // Close cURL
 curl_close($ch);
 ?>
-
-
 
 </noscript>
   
@@ -144,5 +142,3 @@ curl_close($ch);
   </div>
 </body>
 </html>
-
-
