@@ -59,5 +59,11 @@ https://luck.openwindows038.workers.dev/play.mpd?id=6717&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/lM6kDyQn9rcDcO_ELu3X7MFVubo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3929841/dee175.jpg" ch-number="1",  Spotv
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17139&type=drm
+https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
 
 
