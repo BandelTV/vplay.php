@@ -100,6 +100,6 @@ https://luck.openwindows038.workers.dev/play.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=15417&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=15417&type=dash
+https://luck.openwindows038.workers.dev/play.m3u8?id=15417&type=dash
 
 
