@@ -41,7 +41,8 @@ Champions TV 6 · 14 Dec 2024
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Y5ZZSYNOr3B-xLAaBNadIBc8VGc=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/test-tv-epl-f4cbe6.jpg" group-title="Live Now",Premier leg A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OCDjfP3gZ_2zWgsC602RC4ScmhA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3931691/62f173.jpg" group-title="Live Now",Premier leg-Newcastle vs Leicester - Premier League
+Premier League · 14 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
