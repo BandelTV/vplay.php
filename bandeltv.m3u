@@ -25,14 +25,16 @@ Champions TV 3 · 14 Dec 2024
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Live Now",Champions TV 5A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QLB5AvPseJnlk-JV1unpuM3e6ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923706/0fee63.jpg" group-title="Live Now",Champions TV 5-Liverpool vs Fulham - Premier League
+Champions TV 5 · 14 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xctax6mpQ54sL6OQscUbPIs-7BA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923019/86497d.jpg" group-title="Live Now",Champions TV 6A 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xctax6mpQ54sL6OQscUbPIs-7BA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923019/86497d.jpg" group-title="Live Now",Champions TV 6A-Arsenal vs Everton - Premier League
+Champions TV 6 · 14 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
