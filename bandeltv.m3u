@@ -17,8 +17,7 @@ https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fJdkzQFjlVmkBLQ-4gTzdZ0tQao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3931670/847cf2.jpg" group-title="Live Now",Champions TV 3-LA Clippers vs Denver Nuggets - NBA
-Champions TV 3 · 14 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sPy8inRujCUYtda5Tuv987JqG2U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3935606/565d10.jpg" group-title="Live Now",Champions TV 3-West Semifinal: Houston
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -49,8 +48,7 @@ Premier League · 14 Dec 2024
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9353&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9353&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/CdZO0a-BnC2G0MIN0x6OS6Wjb1Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3931693/d10a2b.jpg" ch-number="1", championTV NBA-San Antonio Spurs vs Portland Trail Blazers - NBA
-NBA TV · 14 Dec 2024 - 11:00
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/JjBvaK3Bf9MIDevMg6HvbmcZ6pQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6717/nba-tv-646502.jpg" ch-number="1", championTV NBA
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
