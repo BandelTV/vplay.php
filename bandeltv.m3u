@@ -25,8 +25,8 @@ Champions TV 3 · 14 Dec 2024
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QLB5AvPseJnlk-JV1unpuM3e6ZU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923706/0fee63.jpg" group-title="Live Now",Champions TV 5-Liverpool vs Fulham - Premier League
-Champions TV 5 · 14 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PAM9axB11A2h5SFqpMeA8Q_CoYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923721/6f482f.jpg" group-title="Live Now",Champions TV 5-Brighton vs Crystal Palace - Premier League
+Champions TV 5 · 15 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,7 +65,7 @@ Serie A · 14 Dec 2024 - 03:30
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/lM6kDyQn9rcDcO_ELu3X7MFVubo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3929841/dee175.jpg" ch-number="1",  Spotv
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/G9NEryVezHJDAaL_3-A0-9feqE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923939/f1594a.jpg" ch-number="1",  Spotv
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
