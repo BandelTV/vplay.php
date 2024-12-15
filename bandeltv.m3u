@@ -33,8 +33,8 @@ Champions TV 5 · 15 Dec 2024
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xctax6mpQ54sL6OQscUbPIs-7BA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923019/86497d.jpg" group-title="Live Now",Champions TV 6A-Arsenal vs Everton - Premier League
-Champions TV 6 · 14 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/bC0yJIXgjZ6O8rhqkJ9QuuqV1II=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3936500/073dca.jpg" group-title="Live Now",Champions TV 6-Southampton vs Tottenham - Premier League
+Champions TV 6 · 16 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
