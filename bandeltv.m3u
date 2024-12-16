@@ -65,14 +65,14 @@ Serie A · 17 Dec 2024 - 03:15
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/I01PehoAtd9F6rOhRPQ-sEoez8c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3921711/037c86.jpg" ch-number="1",  Spotv
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/qAC7OGb_JYDbEZjLIRXDDD9XIzE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-1-9fe953.jpg" ch-number="1",  Spotv
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17139&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/G9NEryVezHJDAaL_3-A0-9feqE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3923939/f1594a.jpg" ch-number="1",  Spotv2
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/hFJvgK8aSQDqHuBAfF0ZnD7vlq0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" ch-number="1",  Spotv2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
