@@ -2,14 +2,16 @@
 
 
 ====pidio==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="Live Now",Champions TV 1A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dajSgvi4Rxr-6Ngas2XaskKcvc8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3940951/6b07dc.jpg" group-title="Live Now",Champions TV 1-Southampton vs Liverpool - Carabao Cup
+Champions TV 1 · 19 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Live Now",Champions TV 2A
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WhQFBxMyaarX2R2_cOXU_fieFgg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3940984/20ae4f.jpg" group-title="Live Now",Champions TV 2-Arsenal vs Crystal Palace - Carabao Cup
+Champions TV 2 · 19 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,8 +19,8 @@ https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8bPzdsJrz4nOG_WxEh2uc5gRV0c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3938049/da9492.jpg" group-title="Live Now",Champions TV 3-Denver Nuggets vs Sacramento Kings - NBA
-Champions TV 3 · 17 Dec 2024 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/P4ZJJVsUdvDyy7Nny_gT2y_98q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3943574/8206c7.jpg" group-title="Live Now",Champions TV 3-Newcastle United vs Brentford - Carabao Cup
+Champions TV 3 · 19 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -79,7 +81,8 @@ https://luck.openwindows038.workers.dev/play.mpd?id=17139&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17140&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17140&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/hmErfmKCTN5eaHacSA3YqbAXRvY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" ch-number="1",  Bein
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/iGJ5gD_0Y8C8ZO22IQBTzH51vOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3930539/1207f3.jpg" ch-number="1",  Bein-Espanyol vs Valencia - LaLiga
+Bein 1 · 19 Dec 2024 - 04:25
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -94,8 +97,8 @@ https://luck.openwindows038.workers.dev/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17875&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17875&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/lbLu7-e5sk7PJpIf5ftroVDf5sM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" ch-number="1",  Bein3-Valladolid vs Valencia - LaLiga
-Bein 3 · 14 Dec 2024 - 03:55
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/7MbBZaNm-dsHV7SY7I20R7qTJtU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3930579/2f6da5.jpg" ch-number="1",  Bein3-Villarreal vs Rayo Vallecano - LaLiga
+Bein 3 · 19 Dec 2024 - 04:25
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
