@@ -9,8 +9,7 @@
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Live Now",Champions TV 2-Arsenal vs Crystal Palace - Carabao Cup
-Champions TV 2 · 19 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ppVgoSYgif_dG_03jAtlQdaRvnQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Live Now",Champions TV 2-
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -25,24 +24,21 @@ https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6786&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=6786&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tRFaKI9fXUhKQhkS1tSX6ZGdV-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3937163/bf3011.jpg" group-title="Live Now",Champions TV 5-Aston Villa vs Man City - Premier League
-Champions TV 5 · 21 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tRFaKI9fXUhKQhkS1tSX6ZGdV-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3937163/bf3011.jpg" group-title="Live Now",Champions TV 5-Aston Villa vs Man City-Premier LeagueChampions TV 5 · 21 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9182&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D5cpcBCFZns9dX_Cgy1LG3dTvK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3939026/101ed5.jpg" group-title="Live Now",Champions TV 6-Brentford vs Nottingham Forest - Premier League
-Champions TV 6 · 21 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D5cpcBCFZns9dX_Cgy1LG3dTvK4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3939026/101ed5.jpg" group-title="Live Now",Champions TV 6-Brentford vs Nottingham Forest-Premier LeagueChampions TV 6 · 21 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9183&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/o3ep_nHW2gPIrO8bZ_0mPCZKtow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3945907/bed414.jpg" group-title="Live Now",Premier leg-West Ham vs Brighton - Premier League
-Premier League · 21 Dec 2024
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/o3ep_nHW2gPIrO8bZ_0mPCZKtow=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3945907/bed414.jpg" group-title="Live Now",Premier leg-West Ham vs Brighton-Premier LeaguePremier League · 21 Dec 2024
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -56,7 +52,7 @@ https://luck.openwindows038.workers.dev/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6717&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=6717&type=dash
 
-#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/pzlAXiy4OXfjZVyrH0vO4aEC1DI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3938044/e04a9e.jpg" ch-number="1",  serie A-Lazio vs Inter - Serie A
+#EXTINF:-1 tvg-id="Lokal" group-title="Live Now" tvg-logo="https://thumbor.prod.vidiocdn.com/pzlAXiy4OXfjZVyrH0vO4aEC1DI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3938044/e04a9e.jpg" ch-number="1",  serie A
 Serie A · 17 Dec 2024 - 03:15
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
