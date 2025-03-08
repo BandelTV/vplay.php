@@ -140,11 +140,11 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
 
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXKHUnflNRv97cPZXto4yq0i7R5YYNRzClw&s" group-title="Champion TV",Serie A 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDXKHUnflNRv97cPZXto4yq0i7R5YYNRzClw&s" group-title="Champion TV",tes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17938
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=18189
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/fNY4YMV/20250108-113925.jpg" group-logo="https://i.ibb.co.com/sbCVKBG/20241230-031819.png", group-title="LEAGUE indo", BWF
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
