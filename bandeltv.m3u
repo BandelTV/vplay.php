@@ -19,25 +19,30 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
+#EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=205
+https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=206
+#EXTINF:-1 group-title="LEAGUE indo" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/o0hKYZSu2PBpihEdUvgmKbU8EQ4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg", vLive
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://tvkitastream.my.id/vidio/dash-gen3.php/.mpd?id=205
+
 #EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
 https://tvkitastream.my.id/vidio/dash-gen3.php/.mpd?id=205
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png", Spotv
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://tvkitastream.my.id/vidio/dash-gen3.php/.mpd?id=17139
-
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png", Spotv 2
+#EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png", SpoTV 2 v
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ck
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
+#EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/1MzvDHEzp4Zo_wfPgQQzwkJOKc8=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17139/e5207b.png", SpoTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ck
+https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139
 
 #EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/eoB3uMoSnVZ586-KgJ9og6-ipcM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4207833/d0e869.jpg", tes
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
