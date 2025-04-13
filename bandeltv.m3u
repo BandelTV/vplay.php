@@ -27,7 +27,7 @@ https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=206
 
 #EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://tvkitastream.my.id/vidio/dash-gen3.php/.mpd?id=205
+https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=205
 #EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png", SpoTV 2 v
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
