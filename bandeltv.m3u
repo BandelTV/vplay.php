@@ -19,15 +19,7 @@ https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png", Moji
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=206
 
-
-
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="ONE Friday Fights 104" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png", Indosiar
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://tvkitastream.my.id/vidio/hls-gen3.php/.m3u8?id=205
 #EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/7Yaodip5SnRzHSrJqowhSrt1uSo=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/17140/18e12a.png", SpoTV 2 v
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -39,11 +31,6 @@ https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 #KODIPROP:inputstream.adaptive.license_key=https://bandeltv.xyz/all_ck/ck
 https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17139
 
-#EXTINF:-1 group-title="LEAGUE indo" tvg-name="12 April 2025・ 13.55" tvg-logo="https://thumbor.prod.vidiocdn.com/eoB3uMoSnVZ586-KgJ9og6-ipcM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4207833/d0e869.jpg", tes
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/all_clearkey/mantap
-https://vidio-mpd-vip.bintangstream513.workers.dev/.mpd?id=17140
 
 
 
@@ -121,9 +108,3 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17875&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=6317&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6317&type=dash
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="CHAMPIONS TV",Indosiar1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=204&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.m3u8?id=204&type=dash
